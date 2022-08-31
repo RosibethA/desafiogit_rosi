@@ -104,3 +104,4 @@ header{grid-area: header;}
 .texto{grid-area: texto;}
 .img{grid-area: img;}
 footer{grid-area: footer;}
+h1{color: brown;}

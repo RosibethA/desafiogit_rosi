@@ -88,7 +88,7 @@ text-align: center;
 	display: grid;
 	width: 400px;
  	max-width: 100%;}
-.gridContainer{
+/*.gridContainer{
 	display: grid;
 	grid-template-columns:100%;
 	grid-template-rows: 50% 50%;
@@ -103,5 +103,10 @@ header{grid-area: header;}
 .encabezado{grid-area: encabezado;}
 .texto{grid-area: texto;}
 .img{grid-area: img;}
+<<<<<<< HEAD
 footer{grid-area: footer;}
 h1{color: brown;}
+=======
+footer{grid-area: footer;}*/
+
+>>>>>>> agregarContenidoIndex
